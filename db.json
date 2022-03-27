@@ -1,5 +1,214 @@
 "lines": [
-   
+   {
+      "msisdn":"0660772396",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"OLD BUSINESS BOX"
+   },
+   {
+      "msisdn":"0669906784",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Data",
+      "offerLabel":"Confort Pro 20GO 4G"
+   },
+   {
+      "msisdn":"0664518343",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FF ILLIMIT\u00c9 PRO NATIONAL AT(OPTION199DH)"
+   },
+   {
+      "msisdn":"0660144776",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Data",
+      "offerLabel":"Confort Sosie Voix"
+   },
+   {
+      "msisdn":"0669281574",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT PRO 60H APF"
+   },
+   {
+      "msisdn":"0669281550",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT ORANGE PRO 15H APF"
+   },
+   {
+      "msisdn":"0665625781",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT ORANGE PRO 15H ST"
+   },
+   {
+      "msisdn":"0663372051",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FF ILLIMIT\u00c9 PRO SILVER ST"
+   },
+   {
+      "msisdn":"0620304581",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT PRO 100H ST"
+   },
+   {
+      "msisdn":"0669110985",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"OLD BUSINESS BOX 4G"
+   },
+   {
+      "msisdn":"0663314939",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT ORANGE PRO 15H APF"
+   },
+   {
+      "msisdn":"0660413985",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT PRO CONNECT 20 APF"
+   },
+   {
+      "msisdn":"0663224234",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT PRO 31H APF"
+   },
+   {
+      "msisdn":"0663239575",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Data",
+      "offerLabel":"Confort Pro 20GO 4G"
+   },
+   {
+      "msisdn":"0660116851",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT ORANGE PRO 6H APF"
+   },
+   {
+      "msisdn":"0669955824",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Data",
+      "offerLabel":"Confort Pro 20GO 4G"
+   },
+   {
+      "msisdn":"0660361892",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FF ILLIMIT\u00c9 PRO GOLD AT (OPTION 99DH)"
+   },
+   {
+      "msisdn":"0660359329",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FF ILLIMIT\u00c9 PRO GOLD AT (OPTION 99DH)"
+   },
+   {
+      "msisdn":"0660362684",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FF ILLIMIT\u00c9 PRO GOLD AT (OPTION 199DH)"
+   },
+   {
+      "msisdn":"0669947402",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Data",
+      "offerLabel":"FORFAIT RAM"
+   },
+   {
+      "msisdn":"0669791500",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT PRO 31H APF"
+   },
+   {
+      "msisdn":"0665825110",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"OLD BUSINESS BOX 4G"
+   },
+   {
+      "msisdn":"0669283406",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT PRO 170H APF"
+   },
+   {
+      "msisdn":"0669281610",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT ORANGE PRO 15H APF"
+   },
+   {
+      "msisdn":"0669281611",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT PRO 31H APF"
+   },
+   {
+      "msisdn":"0665100296",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"Forfait Illimite Pro"
+   },
+   {
+      "msisdn":"0660337313",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Data",
+      "offerLabel":"Internet Mobile+"
+   },
+   {
+      "msisdn":"0669578441",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"OLD BUSINESS BOX 4G+"
+   },
+   {
+      "msisdn":"0664808331",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"FORFAIT ORANGE PRO 6H ST"
+   },
+   {
+      "msisdn":"0663665816",
+      "status":"in order",
+      "segmentType":"Mobile",
+      "lineType":"Voix",
+      "offerLabel":"Neo Gold"
+   },
    {
       "msisdn":"0663397968",
       "status":"in order",
